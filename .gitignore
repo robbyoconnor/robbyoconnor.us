@@ -1,2 +1,6 @@
-_site
-.sass-cache/
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+test/bower_components
