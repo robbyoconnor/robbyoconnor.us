@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/robbyoconnor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://robbyoconnor.us
+  * I am robbyoconnor (https://keybase.io/robbyoconnor) on keybase.
+  * I have a public key with fingerprint 0C94 BEF5 AF7D 93D9 C4AA  0A79 865F A85A AF5A 21A4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "0c94bef5af7d93d9c4aa0a79865fa85aaf5a21a4",
+            "host": "keybase.io",
+            "key_id": "865FA85AAF5A21A4",
+            "uid": "169fd555793d1106d5aae95040b1e500",
+            "username": "robbyoconnor"
+        },
+        "merkle_root": {
+            "ctime": 1427747066,
+            "hash": "cb24646d6b65bda503d6f0b4692af6f50aec00f8b322b3d486d60652d078f5c07c17b2e3bdd1c630553ae6d809a42152bb88316486b377d7f691c10f602b08ea",
+            "seqno": 186494
+        },
+        "service": {
+            "hostname": "robbyoconnor.us",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1427747128,
+    "expire_in": 157680000,
+    "prev": "6d17c029f39ca4f484b9cd38614441dc178fc9041ed0a3439bcb86535786bdb5",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkn9QFVUUx+GpTELGDydTyFF3Gq3E593du3d3UdBXpo6KjRWiD+HN3t27ssp7
+i/seyJPB34EYKIFjao2YWVFY+RxGVGZQMccEB/xRUzZlTPYG9Emm/YAhh7rr2JQz
+7V93z/mc7z3fc27NqGFRjuhyT4P7M/ekQ9EdN3FU1riQVMpgUwsyaaWMWmAQX8A+
++RQvYdKY1SSIFT9xGuZEn6kR5yr/xIdMKlNMLL9h+igFnKJTZMpSbdwu1g3fSmIV
+WoatxQBVhpjogqKLmsxrsgoVBSiiLCFBVyRBUWiKYxVIJfNNf+CRW5kHmh5Do1HK
+z3VJgss1V3BxrMvmix4kWCTrmiAIIlVnWYA0qklkAUCAWSIAYIN+Yj20ZJkYB03V
+9PlMy+7ZS6zVBcRjmeYD42rAsDEWcqIIRYAQ7Urx59NCFXMQQaQhjASsKQLgNaQD
+DJHMKTrSBaAQFQBdwjzHYV6DEkUBEjgNiJIuqEBUWRFzhMeaxqqIB4LAKwRpEpAV
+yLECh7Ek8SyidZgXRU3UkcyqLNAR4DCQiEJt+Mkan0mbkxCUYZn9bxUbKrH7tkf3
+Pw6dRX5aV2iZARoooMn8QKAwzfYdCBaSJhpYS7DnoY4HGz6N7u6/y2Up+uhMWE5K
+ZUhJoWERj2ETgogkQD/7HlJMJZHGiirgZJ2XVQXqUIJYVjVeQiyEkNXoHCRdlQFk
+iQYUHvIyVjHdLi+I1LuGhX+dCrRPZSWV9BsrfUqgyCJMWaXj6eFR0Y6omBEO+/VG
+xY5M+OdJp9XF/7Vc7+L2DxTl6uEf3xvbvjj74n229uLQM7PGd60qf+XEyTzP1q96
+2edaJpwOb0iHl6WMvoTZSx8r//LnnEht0lPuX+/sKU2vc5u70ytyUzsvXJu5ZTD+
+1HdjjyTEzv4N1b+fGJMWcgtHZzDW1dChFZmRYM6JSeu5D9unvlAVe7LVO792vvNa
+zVtgnghKb/TEhXLGh4+um7mQ+Zi5M2bZzk/2nfnD3DF5SkVnOLxL6Xw7Z8aV48mz
+LunxjL9uV9vJxZ6eaXO/eXN61VJ5s/fM2NdfHd0q5UYMb164LWvyhYG73kXX39hQ
+s1H5tLn/0qLPvz10+Pz3KRnv3krqjpt3u/N++ZHknivLr+339g37YehqI2SGXiqJ
+1MdfbxUZnEzC9evvMWXzNhmj4Lbb05O2Hn/t3PkpcZcv5RXwoXcaV91d0R/MaG/m
+h1+odmaXvPj1R5mRcfqT1c/uPeNaEH2qcTBue3MLrFCtnb0DS1PatrTMOVGCDl/p
+c85oiPjG1aeMOQb2tyw5G7cuOecJx8jo/oTVub9k1R07mOpctrmx/wYYnYkqu/f5
+61+O9JCYJZua2n66dyD78gfFNzsO3jcHmv6cM2KosmlhftK+vGpHjLtq2EY2NGic
+7b2lD23rrdzz+Lr0lGnru9buXdMtTO3YiBoWnP59QvDcjuQvWmdnsDdh4vNHu0dX
+JA52NK/JOCDu/hs=
+=fieH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/robbyoconnor
+
+==================================================================
+
