@@ -6,27 +6,20 @@ I hereby claim:
 
   * I am an admin of http://robbyoconnor.us
   * I am robbyoconnor (https://keybase.io/robbyoconnor) on keybase.
-  * I have a public key with fingerprint 0C94 BEF5 AF7D 93D9 C4AA  0A79 865F A85A AF5A 21A4
+  * I have a public key with fingerprint 5F37 8901 B433 739F 569A  1E00 1DB6 7AA1 26AF FA8D
 
 To do so, I am signing this object:
 
 {
     "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.7.7"
-        },
         "key": {
-            "fingerprint": "0c94bef5af7d93d9c4aa0a79865fa85aaf5a21a4",
+            "eldest_kid": "0101e09f2eb03f55d10735529eeb9a857427d6414ddbed82e40b003cce4cf3cd46010a",
+            "fingerprint": "5f378901b433739f569a1e001db67aa126affa8d",
             "host": "keybase.io",
-            "key_id": "865FA85AAF5A21A4",
+            "key_id": "1db67aa126affa8d",
+            "kid": "0101e09f2eb03f55d10735529eeb9a857427d6414ddbed82e40b003cce4cf3cd46010a",
             "uid": "169fd555793d1106d5aae95040b1e500",
             "username": "robbyoconnor"
-        },
-        "merkle_root": {
-            "ctime": 1434677009,
-            "hash": "843bed83770b0dcbd177ce9f25663ea5e0033270540f11d4bc8a32e5f087f342446fa1c9d65eb138135f69306c9bb9ff4d6f66da25b8f00c0fa18ba74ca3e8c7",
-            "seqno": 249260
         },
         "service": {
             "hostname": "robbyoconnor.us",
@@ -35,10 +28,10 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1434677066,
+    "ctime": 1467865057,
     "expire_in": 157680000,
-    "prev": "719b73ee383d08710a0c5bbd3f0f8694989a8ecb3ffd90617a90ca0f040ad6a6",
-    "seqno": 23,
+    "prev": "a78f70e1d7567431196cdf8728f624ee31eeb7a9f840e726710cc4609972dfd9",
+    "seqno": 37,
     "tag": "signature"
 }
 
@@ -47,31 +40,29 @@ which yields the signature:
 -----BEGIN PGP MESSAGE-----
 Version: GnuPG v1
 
-owFtkn9QFVUUxx8oz0D5McUgoSRsmNQwz7tvf79CfGTqZKYV5MyD6XHv7t3Hgu4+
-dx8Y4MuSgZQJlJpESyeZwfBHDP0YMQQtMkpo/DHh1NDwNGyiyAGUDFAz23Voxpru
-X/ee87nfc7733J3RM2zhYdXeg55WT2pT2DfDyJZbqT1dQSBNKiNcFYS4XsFqwNqp
-cAMmXEQxLkPQwA5FS1E1CTuKjJRpJoMoxbqhaKpJAQfn4IhghoVbl2VF9WHdryuW
-FgFEgUZYZqDMSQIlCSINIYCcwLOMDHkGQjPlJCFtShZqRuBfVYm7ml5FMqMmv9zN
-M273csbtJN0WX3I3QbKCLDEMw5nqJAlYydTEAgNogEjMAGCBBtanLekaQmWaqKmq
-pls9b8B68Xrs1TXtrnExoFgYSVM0y3EACGZX0Ci06tMUwhJPmVEEJBFJJMeJWJCd
-DMtSGDIYAIpycoChgUySEo1EHlJOzMiA52SKdtI0K0NSFCSWwYikeJJiZFagACsK
-CAmyTEuszLISdDKIlwEQgUnzCHK0CCnMi5xpw8AbVY1wOWnByYKgddZLFRFbfVtP
-9z8OHSWGec+vawEzsN5MFgYCfpflO1Dmx0fNwCaMvNM6XqSokjm7e4dLmuh/3oRl
-Mwj8sl/RsVexCIZjeWAuqw4uNSU5UkAchTHFU5JpngQQiAxCEiUDmWcFWuAFyGMR
-UbIsCYAlOSgAEQLZnBiUWMje45QyG4U+U9NQfCoMlOiYCG4PnzfTFhZus0eEW9/X
-FhUZ98+fvrYydlK9tEr0jP0SsaP1WNymRa9n3YjaPfSbp+Xiga6EpGTPfGIOdXl+
-7Eha7/cdC5N/iDyzivEMLvEtu3Xk/Lv2pUOhee90GNuejx8AVyoere4qGHxiV81z
-+dGZy/LvnGven814vru/RDSGPaXx7f2J14lZ6/60317VkHMsoj0ravXVxtMXunv6
-zu5X07vicfiPPWiy6c2tm7WU8ry5Jdk1c2pHE0a3+51pB3Q7Nbvj/RkF5emZtTF/
-fb1mS+5E39RncRN0067xYHlUBG3LfnvhIynjJ4e2PbA2Jhj/+2io6sWMQu4hZ8vV
-3J7CxMRG+8PrvEUjlSs8X/RuuVhTf31Pjrvjju9I7IHGx6ryH2w2+ujDn+o/+Wq7
-F7kyV7au7q7czxSN8u6ToSMJA+XerZ0xQbkzIbXgSmSN43grsH+VcaPuk7ceX9Pm
-393++cFXTr/UdtOW1FE1sKN929LDCyIHb89dUrF4Y1Zd9LnNC9InM/dmdT41qz7v
-SjEw9rrOoi8/mLjWODKVtWdFQ/Txy4tbmuo/PrpzX8zYR2sHA82H0H1XW0Mh/3vD
-XH99y9h4iSOvIflSzonrDePPnheXVY//Ecem7jv1s/3DtDcWNIYO+cjVuXTo1dL+
-6gu9MxPOLMnvfq3hYtmJAOOK/rZ5qo9NDxbEV6qTzzx5WJz/wqnm2QVdSUMFN5vj
-+Lpfh9tuKXv/Bg==
-=SC6U
+owGtUn1MVWUYv/d6kaDQO3PFjSu0M2UukJ3v954bOCG8RtbGAom0uJyP91xOwDl4
+zuHjcmNWowQCREnWdAo0GUHFtWLovIEUE7cIQ9wMZm45UxScwXIagdk5Vv/5Z+8/
+797n+X08z29vS8wKi826bqC6MzH0Z5N17CZnea3mp5kgwilCAPEEkWL48IIlAtR0
+X7EkIB4ExVAMooyIQw4lRIoSMBQQFIUzEHIM66YAiQOBJjFSEDgouHFIohyKEjwP
+SV4keIGkDQUWSUZESfZDtUyVZN2QpUQCuBkU40iCAAQjUjTDGj4oJnA0YFkMp1lR
+ZN2CQSxSNJNhDMexGkyRFKNmPHwPx3sE/n+eu/wfH5oRBYqiAEMIGIbSAsWykKFQ
+g4VBCkVNoAZVmS2FBlpVOC6g8IosKypSk4wYnQqJh2a45jaPQKWUa4ZEmaroRqHE
+aBbpepnH5OqBMhNcCTnfvzI+TpIFI02DUAFVTVJkxIMZSF6XTF2MpIGbplAKJCOw
+qkxSoU8yERSg3ahxTBtYYUiyPuAWAQoxAVA0IAkMY2heEN0Ad4s0TkJIYEZYgGVE
+N4lCgNMAQ3neCIZhAC6IAoOYm+2WFcRDGF466zdENckvs3q5CpGa6Hqby26x2iwr
+I2zmR7NERzn++30f9jksdeq362NCraM+wPW/7Dh2Ky+hN7O7JiStvqZGXUjqGm+0
+BxrzDv+SuCZ9MS3JTwedM5uqZ89tvfF83uYtm0abY2uHjzou+V1xGYtPyZeYt5cA
+/nq1lpXW9sn3s/suZiTNT3gbavaED3+sfld74U36/povXo27fb19/tD4XnHavnWq
+l3+woD5Rnht6EBhy5t/Nby2QJ59ZfXDYfhk/snWwir7c4r3XWfrlobWFweWUcLDV
+5YmVGg6+TzUdL7h5NndburXqtKfHlZa6YQ/YaIubQE92nF95pnWpbnBV5pXkhu5T
+kyfiqzvPHxifix6JcLV3H1/o0cfa9nobFM2alhqCCfa3Xrg7mRF4Y/bqPpxLaO+6
+MZU52ndqwLv+ncVJ5+B+tuNzpWsa9APfilUJkb/Hn3FUdmwuGvBKL3X/kO2c3Hlt
+i83bODQ8liPV/vrpTFtU3cj8OsHlvfV0zPXlk3/04unUlDdEMlWP5+zcPrIcT+46
+0JO72xPx1dAdZCG1RfzrsQ18dfqohJae+6jw4sT2zzTvvSs7WpZ6c3Ocz0WE343P
+mLhtTcZjr+bfaQy/Mp1YaVsb1usL0UXH6NKR6bmK7P5E+/2saefysxPBJmv3LnYu
+a/bsk/W2jc0t2rFtCwV9P+f92Dx7NDsm8gPr/sgXE0/vAFPfvJdQUp9a/NsJZ7j3
+a3/n3w==
+=l5Tr
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -80,4 +71,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/robbyoconnor
 
 ==================================================================
-git
