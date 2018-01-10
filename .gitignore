@@ -1,6 +1,3 @@
-node_modules
-dist
-.tmp
+_site
 .sass-cache
-bower_components
-test/bower_components
+.jekyll-metadata
